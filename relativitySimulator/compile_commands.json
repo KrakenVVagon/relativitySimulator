@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/src/",
+    "command": "clang -I ./include/",
+    "file": "./include/"
+  }
+]
